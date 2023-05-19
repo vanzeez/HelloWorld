@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Vanshika Gupta
-- 👩‍🎓 I'm an undergrad student currently majoring in ECE with a minor in CS
-- ⭐ I’m an Aspiring Full Stack Developer👩‍💻 with a passion for technology and design👩‍🎨
+- 👋 Hi, I’m Vanshika Gupta!
+- 👩‍🎓 I'm a first year undergrad student currently majoring in ECE with a minor in CS
+- ⭐ I’m an Aspiring Full Stack Developer👩‍💻 with a passion for Technology and Design👩‍🎨
 
 - 💻 My Tech Stack - 
 🔴MERN Stack
