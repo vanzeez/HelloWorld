@@ -10,10 +10,10 @@
 🔵UI Design
 
 - 💎 My other interets 
-🎨Graphic Design & Fine Arts
-✍Technical & Creative Writing
-✨Video Editing
-📸Photography
+🎨Graphic Design & Fine Arts |
+✍Technical & Creative Writing|
+✨Video Editing|
+📸Photography|
 🪐Astronomy
 
 - 📬 Connect with Me
