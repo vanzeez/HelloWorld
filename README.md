@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vanshika Gupta
 - 👩‍🎓 I'm an undergrad student currently majoring in ECE with a minor in CS
-- 👀 I’m an Aspiring Full Stack Developer👩‍💻 with a passion for technology and design👩‍🎨
+- ⭐ I’m an Aspiring Full Stack Developer👩‍💻 with a passion for technology and design👩‍🎨
 
 - 💻 My Tech Stack
 🔴MERN Stack
@@ -10,11 +10,11 @@
 🔵UI Design
 
 - 💎 My other interets 
-🟦Graphic Design & Fine Arts (🎨)
-🟩Technical & Creative Writing (✍)
-🟨Video Editing (✨)
-🟧Photography (📸)
-🟥Astronomy (🪐)
+🎨Graphic Design & Fine Arts
+✍Technical & Creative Writing
+✨Video Editing
+📸Photography
+🪐Astronomy
 
 - 📬 Connect with Me
 🔗 [Campsite.bio](https://campsite.bio/vanshikagupta)
