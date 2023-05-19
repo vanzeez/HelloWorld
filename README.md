@@ -9,7 +9,7 @@
 🟢C++ & DSA
 🔵UI Design
 
-- 💎 My other interets - 
+- 💎 My Other Interets - 
 🎨Graphic Design & Fine Arts |
 ✍Technical & Creative Writing |
 ✨Video Editing |
@@ -18,7 +18,7 @@
 
 - 📬 Connect with Me
 🔗 [Campsite.bio](https://campsite.bio/vanshikagupta)
-- 🔰 Check out my blogs 
+- 🔰 Check out my Blogs 
 🔗 [Medium](https://vanscode.medium.com/)
 
 🤝 Let's connect and build awesome stuff together :)
