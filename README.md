@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vanshika Gupta!
-- 👩‍🎓 I'm a first year undergrad student currently majoring in ECE with a minor in CS
+- 👩‍🎓 I'm a first year undergrad student currently majoring in Information Technology
 - ⭐ I’m an Aspiring Full Stack Developer with a passion for Technology👩‍💻 & Design👩‍🎨
 
 - 💻 My Tech Stack - 
