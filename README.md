@@ -6,7 +6,6 @@
 🔴MERN Stack
 🟠HTML/CSS/JS
 🟡Python & DS
-🟢C++ & DSA
 🔵UI Design
 
 - 💎 My Other Interets - 
